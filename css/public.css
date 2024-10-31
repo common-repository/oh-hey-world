@@ -1,0 +1,84 @@
+
+/* widgets */
+
+.ohw-w-profile-content {
+	line-height: 20px;
+}
+.ohw-w-profile-content .ohw-name-container {
+	font-size: 110%;
+}
+.ohw-w-profile-content .ohw-name,
+.ohw-w-profile-content .ohw-location {
+	font-weight: bold;
+}
+.ohw-w-profile-content .ohw-location {
+}
+.ohw-w-profile-content .ohw-location-thumb {
+	border: 1px solid #666;
+	margin-top: 15px;
+	max-width: 200px;
+}
+.ohw-w-profile-content .ohw-location-thumb-medium .ohw-location-thumb {
+	width: 66%;
+}
+.ohw-w-profile-content .ohw-location-thumb-small .ohw-location-thumb {
+	width: 33%;
+}
+.ohw-w-profile-content .ohw-location-thumb-none .ohw-location-thumb {
+	display: none;
+}
+
+.ohw-w-profile-content .ohw-days-on-road-container {
+	margin-top: 15px;
+}
+.ohw-w-profile-content .ohw-logo,
+.ohw-w-profile-content .horizon-logo {
+	border: none;
+	box-shadow: none;
+	margin-top: 20px;
+	width: 150px;
+}
+.ohw-w-profile-content .ohw-link-container {
+	display: block;
+}
+.ohw-w-profile-content .ohw-link {
+	font-size: 90%;
+	opacity: .6;
+}
+
+/* shortcodes */
+
+.ohw-sc-currentlocation {
+	line-height: 20px;
+}
+.ohw-sc-currentlocation .ohw-name-container {
+	font-size: 110%;
+}
+.ohw-sc-currentlocation .ohw-name,
+.ohw-sc-currentlocation .ohw-location {
+	font-weight: bold;
+}
+.ohw-sc-currentlocation .ohw-location {
+}
+.ohw-sc-currentlocation .ohw-location-thumb {
+	border: 1px solid #666;
+	margin-top: 15px;
+	max-width: 200px;
+}
+.ohw-sc-currentlocation .ohw-days-on-road-container {
+	margin-top: 15px;
+}
+.ohw-sc-currentlocation .ohw-logo,
+.ohw-sc-currentlocation .horizon-logo {
+	border: none;
+	box-shadow: none;
+	margin-top: 20px;
+	width: 150px;
+}
+.ohw-sc-currentlocation .ohw-link-container {
+	display: block;
+}
+.ohw-sc-currentlocation .ohw-link {
+	font-size: 90%;
+	opacity: .6;
+}
